@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94711421243']
-global.premium = ['94711421243']
-global.ownernomer = '94711421243'
-global.ownername = 'Dark Alpha'
-global.botname = 'BIXBY-MD USER BOT'
-global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
-global.ig = 'https://github.com/darkalphaxteam'
+global.owner = ['254112565651']
+global.premium = ['254112565651']
+global.ownernomer = '254112565651'
+global.ownername = 'Gabby'
+global.botname = 'Gabby'
+global.footer = 'Gabby'
+global.ig = 'https://github.com/Gabbylit999'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/darkalphaxteam/QUEEN-BIXBY-MD-PRO-NEW'
-global.myweb = 'https://youtube.com/channel/UCvpyOCBCaBSCdv4QolnO0WQ'
-global.packname = 'Queen Bixby MD'
-global.author = 'DARK ALPHA'
+global.sc = 'gat you'
+global.myweb = 'https://youtube.com/channel/U4QolnO0WQ'
+global.packname = 'Gabby MD'
+global.author = 'Gabby'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '🚢'
@@ -38,10 +38,10 @@ global.mess = {
     success: 'Done ✓',
     admin: 'This Feature Is Only For Admin!',
     botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
+    owner: 'This Feature Is Only For my Owner Gabby!',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
+    bot: 'This Feature Is Only For GabbyBot',
     wait: 'Please Wait...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
